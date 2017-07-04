@@ -1,0 +1,6 @@
+framework module Pods_ZippyBird {
+  umbrella header "Pods-ZippyBird-umbrella.h"
+
+  export *
+  module * { export * }
+}
